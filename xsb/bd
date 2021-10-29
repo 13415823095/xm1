@@ -1,0 +1,14 @@
+/*
+MySQL Data Transfer
+Source Host: localhost
+Source Database: dataphp
+Target Host: localhost
+Target Database: dataphp
+Date: 2021/10/7 15:06:17
+*/
+
+SET FOREIGN_KEY_CHECKS=0;
+-- ----------------------------
+-- Table structure for student
+-- ----------------------------
+DROP TABLE IF EXISTS `student`;
